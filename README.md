@@ -36,6 +36,7 @@
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
