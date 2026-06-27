@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
