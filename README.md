@@ -6,11 +6,13 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
