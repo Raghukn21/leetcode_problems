@@ -15,6 +15,7 @@
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -47,6 +48,7 @@
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 ## Trie
 |  |
