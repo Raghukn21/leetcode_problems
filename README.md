@@ -57,6 +57,7 @@
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
 ## Stack
 |  |
 | ------- |
