@@ -22,6 +22,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
