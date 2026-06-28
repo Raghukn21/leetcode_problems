@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Raghukn21/leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Raghukn21/leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
