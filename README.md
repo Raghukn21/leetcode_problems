@@ -22,6 +22,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0343-integer-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
+| [0343-integer-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0343-integer-break) |
 ## Hash Table
 |  |
 | ------- |
