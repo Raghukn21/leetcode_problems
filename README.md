@@ -80,11 +80,13 @@
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -187,4 +190,16 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
+## Binary Search
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
