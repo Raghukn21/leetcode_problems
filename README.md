@@ -88,6 +88,7 @@
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,4 +173,16 @@
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
