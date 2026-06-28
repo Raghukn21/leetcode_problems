@@ -41,6 +41,7 @@
 | [0040-combination-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -88,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 ## Graph Theory
 |  |
