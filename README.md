@@ -46,6 +46,7 @@
 | [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 ## Graph Theory
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
