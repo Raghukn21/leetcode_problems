@@ -54,6 +54,7 @@
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
@@ -167,6 +171,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
