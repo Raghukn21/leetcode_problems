@@ -69,6 +69,7 @@
 | [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0343-integer-break) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Union-Find
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Queue
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
