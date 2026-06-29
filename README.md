@@ -104,12 +104,14 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
@@ -125,6 +127,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
