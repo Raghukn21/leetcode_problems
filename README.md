@@ -105,6 +105,7 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -119,6 +120,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghukn21/leetcode_problems/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -130,6 +132,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -248,6 +251,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Randomized
