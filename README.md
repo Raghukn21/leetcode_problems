@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
@@ -206,6 +207,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
