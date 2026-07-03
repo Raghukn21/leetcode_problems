@@ -7,6 +7,7 @@
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Raghukn21/leetcode_problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -21,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghukn21/leetcode_problems/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
