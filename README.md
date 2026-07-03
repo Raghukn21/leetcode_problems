@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/Raghukn21/leetcode_problems/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -210,6 +211,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Raghukn21/leetcode_problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Two Pointers
