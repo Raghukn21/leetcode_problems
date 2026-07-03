@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Raghukn21/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Raghukn21/leetcode_problems/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -86,6 +87,7 @@
 | [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Raghukn21/leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Raghukn21/leetcode_problems/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Raghukn21/leetcode_problems/tree/master/0335-self-crossing) |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Raghukn21/leetcode_problems/tree/master/0413-arithmetic-slices) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Raghukn21/leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
