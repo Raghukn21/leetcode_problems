@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghukn21/leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -79,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Raghukn21/leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Raghukn21/leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0060-permutation-sequence) |
@@ -220,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 ## Heap (Priority Queue)
 |  |
