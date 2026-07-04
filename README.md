@@ -8,6 +8,7 @@
 | [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Raghukn21/leetcode_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -41,6 +42,7 @@
 | [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Raghukn21/leetcode_problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Raghukn21/leetcode_problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -71,6 +73,7 @@
 | [0063-unique-paths-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +148,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0110-balanced-binary-tree) |
@@ -189,6 +193,7 @@
 | [0063-unique-paths-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Raghukn21/leetcode_problems/tree/master/0419-battleships-in-a-board) |
