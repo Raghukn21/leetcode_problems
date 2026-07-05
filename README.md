@@ -114,6 +114,7 @@
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 ## Data Stream
 |  |
 | ------- |
