@@ -117,6 +117,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Raghukn21/leetcode_problems/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
+| [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 ## Sweep Line
 |  |
 | ------- |
@@ -345,4 +347,12 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
