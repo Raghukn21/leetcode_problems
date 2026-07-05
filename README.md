@@ -34,6 +34,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Raghukn21/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0343-integer-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0343-integer-break) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Raghukn21/leetcode_problems/tree/master/0391-perfect-rectangle) |
+| [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Raghukn21/leetcode_problems/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 ## Bit Manipulation
 |  |
 | ------- |
