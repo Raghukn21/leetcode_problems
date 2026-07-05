@@ -115,6 +115,7 @@
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0447-number-of-boomerangs](https://github.com/Raghukn21/leetcode_problems/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 ## Doubly-Linked List
 |  |
 | ------- |
