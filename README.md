@@ -40,6 +40,7 @@
 | [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0113-path-sum-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0413-arithmetic-slices](https://github.com/Raghukn21/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Raghukn21/leetcode_problems/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 ## Math
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -355,4 +359,8 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
