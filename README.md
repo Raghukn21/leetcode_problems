@@ -19,6 +19,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/Raghukn21/leetcode_problems/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0447-number-of-boomerangs](https://github.com/Raghukn21/leetcode_problems/tree/master/0447-number-of-boomerangs) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 ## Math
 |  |
 | ------- |
