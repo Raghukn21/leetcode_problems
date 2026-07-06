@@ -65,6 +65,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Recursion
@@ -268,6 +269,7 @@
 | [0061-rotate-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
