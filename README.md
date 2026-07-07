@@ -72,6 +72,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raghukn21/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -157,6 +158,7 @@
 | [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -327,6 +329,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -393,6 +396,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Rejection Sampling
 |  |
