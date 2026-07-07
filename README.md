@@ -74,6 +74,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -289,6 +290,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
@@ -297,6 +299,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
@@ -309,6 +312,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
 ## Simulation
 |  |
 | ------- |
@@ -412,4 +416,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
