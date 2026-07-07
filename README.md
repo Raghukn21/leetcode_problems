@@ -151,6 +151,7 @@
 | [0458-poor-pigs](https://github.com/Raghukn21/leetcode_problems/tree/master/0458-poor-pigs) |
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
+| [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
 ## Hash Table
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
 ## Data Stream
 |  |
 | ------- |
