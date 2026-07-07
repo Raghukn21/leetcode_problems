@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/Raghukn21/leetcode_problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
@@ -33,6 +34,7 @@
 | [0072-edit-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Raghukn21/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0343-integer-break) |
@@ -101,6 +103,7 @@
 | [0134-gas-station](https://github.com/Raghukn21/leetcode_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -150,6 +153,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raghukn21/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
@@ -250,6 +254,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -257,6 +262,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 ## Geometry
 |  |
