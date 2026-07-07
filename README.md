@@ -130,6 +130,7 @@
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0447-number-of-boomerangs](https://github.com/Raghukn21/leetcode_problems/tree/master/0447-number-of-boomerangs) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 ## Union-Find
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Raghukn21/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 ## Combinatorics
 |  |
 | ------- |
