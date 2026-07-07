@@ -141,6 +141,7 @@
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Raghukn21/leetcode_problems/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
 ## Graph Theory
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0043-multiply-strings](https://github.com/Raghukn21/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
