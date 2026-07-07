@@ -136,6 +136,7 @@
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -441,4 +445,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
