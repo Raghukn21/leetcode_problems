@@ -51,6 +51,7 @@
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
