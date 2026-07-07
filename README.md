@@ -75,6 +75,7 @@
 | [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -167,6 +168,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Raghukn21/leetcode_problems/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0447-number-of-boomerangs](https://github.com/Raghukn21/leetcode_problems/tree/master/0447-number-of-boomerangs) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Union-Find
@@ -339,6 +341,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Rejection Sampling
 |  |
