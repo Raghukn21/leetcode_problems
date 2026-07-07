@@ -142,6 +142,7 @@
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 ## Math
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0134-gas-station](https://github.com/Raghukn21/leetcode_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 ## Trie
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Raghukn21/leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +353,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Raghukn21/leetcode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 ## Eulerian Circuit
 |  |
 | ------- |
