@@ -68,6 +68,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Raghukn21/leetcode_problems/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/Raghukn21/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Raghukn21/leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Raghukn21/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
