@@ -140,6 +140,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 | [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Data Stream
 |  |
 | ------- |
@@ -388,6 +391,7 @@
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Raghukn21/leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -399,6 +403,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Sweep Line
 |  |
 | ------- |
@@ -407,6 +412,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Sliding Window
 |  |
 | ------- |
@@ -457,4 +463,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0493-reverse-pairs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
