@@ -21,6 +21,7 @@
 | [0468-validate-ip-address](https://github.com/Raghukn21/leetcode_problems/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
 ## Sorting
 |  |
 | ------- |
