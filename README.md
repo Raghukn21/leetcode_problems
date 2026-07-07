@@ -22,6 +22,7 @@
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
+| [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
+| [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0130-surrounded-regions](https://github.com/Raghukn21/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Raghukn21/leetcode_problems/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Raghukn21/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 ## Geometry
 |  |
 | ------- |
@@ -288,6 +292,7 @@
 | [0071-simplify-path](https://github.com/Raghukn21/leetcode_problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 ## Two Pointers
 |  |
 | ------- |
