@@ -143,6 +143,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
+| [0503-next-greater-element-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -474,4 +476,8 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
