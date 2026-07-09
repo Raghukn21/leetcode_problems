@@ -23,6 +23,7 @@
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0474-ones-and-zeroes](https://github.com/Raghukn21/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 ## Backtracking
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 ## Matrix
 |  |
 | ------- |
