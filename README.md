@@ -216,6 +216,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/Raghukn21/leetcode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0337-house-robber-iii](https://github.com/Raghukn21/leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Matrix
 |  |
 | ------- |
