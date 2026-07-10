@@ -27,6 +27,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Raghukn21/leetcode_problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Raghukn21/leetcode_problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Union-Find
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Raghukn21/leetcode_problems/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Raghukn21/leetcode_problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Design
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Raghukn21/leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Raghukn21/leetcode_problems/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Raghukn21/leetcode_problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Queue
 |  |
 | ------- |
