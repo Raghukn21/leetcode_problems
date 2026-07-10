@@ -26,6 +26,7 @@
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0518-coin-change-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sorting
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Divide and Conquer
 |  |
 | ------- |
