@@ -24,6 +24,7 @@
 | [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Backtracking
 |  |
 | ------- |
