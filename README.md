@@ -172,6 +172,7 @@
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 | [0483-smallest-good-base](https://github.com/Raghukn21/leetcode_problems/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0480-sliding-window-median](https://github.com/Raghukn21/leetcode_problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raghukn21/leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0470-implement-rand10-using-rand7](https://github.com/Raghukn21/leetcode_problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
 ## Sweep Line
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
