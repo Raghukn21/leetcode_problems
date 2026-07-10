@@ -59,6 +59,7 @@
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Raghukn21/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Raghukn21/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Raghukn21/leetcode_problems/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/Raghukn21/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Math
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/Raghukn21/leetcode_problems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Raghukn21/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -500,6 +504,7 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Raghukn21/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/Raghukn21/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Merge Sort
 |  |
 | ------- |
