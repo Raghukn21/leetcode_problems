@@ -25,6 +25,7 @@
 | [0488-zuma-game](https://github.com/Raghukn21/leetcode_problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raghukn21/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0503-next-greater-element-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Raghukn21/leetcode_problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Raghukn21/leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -345,6 +348,7 @@
 | [0466-count-the-repetitions](https://github.com/Raghukn21/leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Raghukn21/leetcode_problems/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | [0472-concatenated-words](https://github.com/Raghukn21/leetcode_problems/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Raghukn21/leetcode_problems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
