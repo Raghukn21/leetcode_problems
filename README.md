@@ -148,6 +148,7 @@
 | [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0517-super-washing-machines](https://github.com/Raghukn21/leetcode_problems/tree/master/0517-super-washing-machines) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [0135-candy](https://github.com/Raghukn21/leetcode_problems/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Raghukn21/leetcode_problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Raghukn21/leetcode_problems/tree/master/0517-super-washing-machines) |
 ## Trie
 |  |
 | ------- |
