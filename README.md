@@ -243,6 +243,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Raghukn21/leetcode_problems/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Raghukn21/leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Raghukn21/leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -460,6 +463,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raghukn21/leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 ## Randomized
 |  |
 | ------- |
