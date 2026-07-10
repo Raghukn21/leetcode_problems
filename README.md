@@ -28,6 +28,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Raghukn21/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Raghukn21/leetcode_problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/Raghukn21/leetcode_problems/tree/master/0537-complex-number-multiplication) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Raghukn21/leetcode_problems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/Raghukn21/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/Raghukn21/leetcode_problems/tree/master/0537-complex-number-multiplication) |
 ## Hash Table
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [0054-spiral-matrix](https://github.com/Raghukn21/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raghukn21/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Raghukn21/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/Raghukn21/leetcode_problems/tree/master/0537-complex-number-multiplication) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
